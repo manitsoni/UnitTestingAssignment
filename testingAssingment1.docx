@@ -1,0 +1,36 @@
+
+
+Assignment 1
+
+
+
+Ans 1 :
+
+No.
+Unit Testing
+Functional Testing
+1
+Testing the unit of code is isolation
+Testing the functionality as per user requirements
+2
+Easy to write and execute
+More complex compare to unit testing
+3
+Code maintenance is low
+Code maintenance is high
+4
+Written by developer
+Written by tester
+5
+Must be automated
+Both manual and automation testing
+6
+Usually done with same as coding language
+No need of same programming language
+
+
+
+
+Ans 2 :
+
+Unit testing ensures that all code meets quality standards before it's deployed. This ensures a reliable engineering environment where quality is paramount. Over the course of the product development life cycle, unit testing saves time and money, and helps developers write better code, more efficiently.
